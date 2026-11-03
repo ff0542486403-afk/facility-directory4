@@ -1,0 +1,6 @@
+{
+  "name": "دليل التوجيه المكاني وجرد الأجهزة - مبنى الملك فهد",
+  "description": "الدليل التفاعلي للتوجيه المكاني والمسارات وجرد أجهزة ومعدات المكاتب في مبنى الملك فهد - إدارة تعليم المدينة المنورة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
